@@ -1,4 +1,4 @@
-# Spotify Analytics & API Demo
+# Spotify Music Popularity Prediction
 
 ## Project Introduction
 
